@@ -1,0 +1,9 @@
+E:\UfoApp\bin\Debug\UfoApp.exe.config
+E:\UfoApp\bin\Debug\UfoApp.exe
+E:\UfoApp\bin\Debug\UfoApp.pdb
+E:\UfoApp\obj\Debug\UfoApp.csprojAssemblyReference.cache
+E:\UfoApp\obj\Debug\UfoApp.Properties.Resources.resources
+E:\UfoApp\obj\Debug\UfoApp.csproj.GenerateResource.cache
+E:\UfoApp\obj\Debug\UfoApp.csproj.CoreCompileInputs.cache
+E:\UfoApp\obj\Debug\UfoApp.exe
+E:\UfoApp\obj\Debug\UfoApp.pdb
